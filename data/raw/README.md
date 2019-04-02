@@ -1,0 +1,1 @@
+ORIGINAL, RAW, and critically IMMUTABLE data. Folder should be read-only except for raw file dumps.

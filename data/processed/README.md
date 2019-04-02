@@ -1,0 +1,1 @@
+Generally final, canonical data for modeling, analysis and presentation.
