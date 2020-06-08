@@ -1,1 +1,0 @@
-Data dictionaries, manuals, papers and all other explanatory materials.

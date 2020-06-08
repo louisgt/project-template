@@ -1,1 +1,0 @@
-Optional documentation for the project.
