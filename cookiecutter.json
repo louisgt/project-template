@@ -7,5 +7,6 @@
     "project_short_description": "A short description of your project",
     "release_date": "{% now 'local' %}",
     "version": "0.1.0",
+    "open_source_license": ["MIT", "BSD-3-Clause", "No license file"],
     "_extensions": ["jinja2_time.TimeExtension"]
 }
